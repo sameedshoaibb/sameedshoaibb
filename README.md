@@ -74,7 +74,7 @@ I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Inform
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameedshoaibb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameedshoaibb&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameedshoaibb&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 
